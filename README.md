@@ -1,10 +1,13 @@
 # Hash-And-Search
 ~
+.
+
 Mühendislik Projesi 1 - Bölüm 1 | Java Netbeans Projesi
 
 Engineering Project 1 - Part 1  | Java Netbeans Project
 
 Özet:
+
 Programın bulunduğu dizinde bir txt dosyası bulunmaktadır. Program bu txt uzantılı dosayı açıp içerisinde bulunan her biri yeni satırda yazılı 100 kelimeyi okuyup bir kelime dizisinde tutar. Bu kelimeleri HF ile tam sayıya çevirir ve bulduğu değeri QP yaparak bir tam sayı dizisine saklar. Daha sonra program kullanıcıdan aranacak kelimeyi girmesini ister. Girilen kelime HF ile tam sayıya çevirilir. Oluşan değer QP ile tam sayı dizisinde aranır. Değer bulunuyorsa kullanıcıya “kelime vardır” bilgisi verilir. Kelime dizide yoksa ilk yöntem ile her seferinde bir harf eksiltilerek HF uygulanır ve QP ile arama yapılır. Aynı zamanda ikinci metod da çalışmalıdır. Bu metodda ise kelimenin bir harfi alınır yanındaki harfle yer değiştirilip HF uygulanır ve QP ile arama yapılır. İki metod da uygulandıktan sonra bulunan sonuçlar ”kelime bulunamadı fakat şunlar bulundu; ---“ şeklinde kullanıcıya gösterilir. Eğer bu metodlar uygulanarak da bir sonuç bulunamadıysa kullanıcıya “kelime veya türevleri bulunamadı” benzeri bir mesaj gösterilir.
 
 Anahtar Kelimeler: Hash Fonksiyonu(HF), Quadratic Probing(QP), Hash Arama
