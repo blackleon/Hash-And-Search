@@ -2,6 +2,11 @@
 ~
 .
 
+Proje değerlendirilmek üzere gönderildi.
+
+The project was sent to be evaluated.
+
+
 Mühendislik Projesi 1 - Bölüm 1 | Java Netbeans Projesi
 
 Engineering Project 1 - Part 1  | Java Netbeans Project
